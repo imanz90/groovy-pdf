@@ -1,0 +1,1 @@
+Providing a builder to generate pdfs from Groovy. Based on the Java libraries from iText
